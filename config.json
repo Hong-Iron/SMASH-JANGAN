@@ -1,0 +1,149 @@
+{
+  "code": "JANGAN",
+  "title": "SMASH JANGAN",
+  "school": "장안대",
+  "fullName": "장안대학교",
+  "campusName": "장안대학교",
+  "tagline": "장안대를 부셔 (시험기간 스트레스 해소)",
+  "description": "장안대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 장안대학교 3D 화면과 SMASH JANGAN 제목",
+  "url": "https://hong-iron.github.io/SMASH-JANGAN/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 468415951
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.2142882,
+        126.9472134
+      ],
+      "n": "학교기업 장안쥬얼리",
+      "why": "항공사진에 없음 — 건축물대장에는 장안대학교 학교기업 장안쥬얼리로 올라 있지만 항공사진의 윤곽 자리는 빈 잔디밭이고 학교 캠퍼스맵에도 없습니다."
+    },
+    {
+      "at": [
+        37.2117869,
+        126.9480272
+      ],
+      "n": "연기실습동",
+      "why": "항공사진에 없음 — 대장에는 연기실습동으로 올라 있지만 사진의 윤곽 자리는 풀과 흙바닥뿐이고 학교 캠퍼스맵에도 없습니다."
+    },
+    {
+      "at": [
+        37.2133074,
+        126.949086
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 동쪽 흙바닥 주차장 한가운데라 윤곽 자리에 서 있는 건물이 없습니다."
+    },
+    {
+      "at": [
+        37.2147768,
+        126.9481215
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 뒷산 비탈의 임야(460-7)라 풀과 나무만 있고 서 있는 건물이 없습니다."
+    },
+    {
+      "at": [
+        37.2149266,
+        126.9481915
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 뒷산 비탈의 임야(460-7)라 옛 건물 터 같은 흔적만 남아 있고 서 있는 건물이 없습니다."
+    },
+    {
+      "at": [
+        37.2143764,
+        126.9487055
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 뒷산 풀밭 비탈(임야 460-7)이라 윤곽 자리에 서 있는 건물이 없습니다."
+    },
+    {
+      "at": [
+        37.2148198,
+        126.9484534
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 뒷산 비탈의 임야(460-7)라 옛 건물 터 같은 흔적만 남아 있고 서 있는 건물이 없습니다."
+    },
+    {
+      "at": [
+        37.2146824,
+        126.9483684
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 뒷산 비탈의 임야(460-7)라 옛 건물 터 같은 흔적만 남아 있고 서 있는 건물이 없습니다."
+    },
+    {
+      "at": [
+        37.211303,
+        126.9445929
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 윤곽 밖 숲속이라 사진에 건물이 보이지 않습니다."
+    }
+  ],
+  "look": {
+    "13동 [자아실현관]": {
+      "style": "dorm",
+      "wall": "#bebebb",
+      "glass": "#394f62",
+      "frame": "#868c8f"
+    },
+    "대학본부겸 학술정보관": {
+      "style": "glass",
+      "wall": "#b0b9c0",
+      "glass": "#396381",
+      "frame": "#798b95"
+    },
+    "체육관겸 대강당": {
+      "style": "brick",
+      "wall": "#ab6c61",
+      "glass": "#2d3024",
+      "frame": "#a5a8a5"
+    },
+    "생활과학관": {
+      "style": "brick",
+      "wall": "#be6a57",
+      "glass": "#3d332d",
+      "frame": "#d5d2d0"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#52423f",
+      "glass": "#3a3f42",
+      "frame": "#959fa9"
+    },
+    "정보통신관": {
+      "style": "stone",
+      "wall": "#d8d8d2",
+      "glass": "#2f322c",
+      "frame": "#838480"
+    },
+    "사회과학관": {
+      "style": "concrete",
+      "wall": "#b4b5b5",
+      "glass": "#434542",
+      "frame": "#5e6061"
+    },
+    "전공동아리관": {
+      "style": "brick",
+      "wall": "#5b5049",
+      "glass": "#292520",
+      "frame": "#c4b5a8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
